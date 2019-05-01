@@ -1,0 +1,3 @@
+/home/feng/workspace/c/pointers-on-c/rearrange/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/feng/workspace/c/pointers-on-c/rearrange/cmake-build-debug/CMakeFiles/rearrange.dir
+/home/feng/workspace/c/pointers-on-c/rearrange/cmake-build-debug/CMakeFiles/edit_cache.dir
