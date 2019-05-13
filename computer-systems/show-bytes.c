@@ -31,5 +31,7 @@ int main() {
     show_float(fval);
     show_pointer(pval);
 
+    show_bytes("12345", 6);
+
     return 0;
 }
